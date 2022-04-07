@@ -20,7 +20,7 @@ body {
   line-height: 1.3em;
   text-align: center;
   align-items: center;
-  background: linear-gradient(90deg, #1db954, #191414, #dfdfdf, #1db954);
+  background: linear-gradient(90deg, #1db954, #dfdfdf, #068d36, #1db954);
   background-size: 300%;
   border-radius: 30px;
   z-index: 1;
@@ -49,7 +49,7 @@ button:before {
   right: -5px;
   bottom: -5px;
   z-index: -1;
-  background: linear-gradient(90deg, #1db954, #191414, #1db954, #dfdfdf);
+  background: linear-gradient(90deg, #1db954, #dfdfdf, #068d36, #1db954);
   background-size: 400%;
   border-radius: 35px;
   transition: 1s;
@@ -60,7 +60,7 @@ button:hover::before {
 }
 
 button:active {
-  background: linear-gradient(32deg, #1db954, #191414, #1db954, #dfdfdf);
+  background: linear-gradient(32deg, #1db954, #dfdfdf, #068d36, #1db954);
 }
 .logo {
   height: 40px;
