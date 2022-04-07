@@ -20,7 +20,7 @@ body {
   line-height: 1.3em;
   text-align: center;
   align-items: center;
-  background: linear-gradient(90deg, #1db954, #dfdfdf, #068d36, #1db954);
+  background: linear-gradient(90deg, #1db954,  #dfdfdf, #068d36, #1db954);
   background-size: 300%;
   border-radius: 30px;
   z-index: 1;
