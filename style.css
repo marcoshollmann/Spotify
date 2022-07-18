@@ -72,9 +72,11 @@ button:active {
   background-color: rgba(0, 0, 0, 0.6);
   color: white;
   justify-content: center;
-  position: fixed;
+  position: absolute;
   top: 0;
   width: 100%;
+  margin-top: -9%;
+
 }
 
 #navbar .navbar-container {
